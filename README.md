@@ -52,15 +52,11 @@ To deploy this project on the Altera Cyclone II EP2C35F672C6 FPGA board, follow 
 - Altera Cyclone II EP2C35F672C6 FPGA board.
 - Quartus Prime or equivalent FPGA development environment.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Vinit Arora](**https://github.com/yourusername**)
 
-## Contributions
-
-Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
+.
 
