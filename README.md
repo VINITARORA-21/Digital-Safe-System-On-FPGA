@@ -56,7 +56,7 @@ To deploy this project on the Altera Cyclone II EP2C35F672C6 FPGA board, follow 
 
 ## Author
 
-- [Vinit Arora](**https://github.com/yourusername**)
+- [Vinit Arora] (https://github.com/VINITARORA-21)
 
 .
 
